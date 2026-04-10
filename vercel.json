@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "functions": {
+    "pages/api/mcp.js": { "maxDuration": 60 }
+  }
+}
